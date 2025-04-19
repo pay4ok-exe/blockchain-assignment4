@@ -1,0 +1,47 @@
+# Truffle build directory
+build/
+# Build folders for frameworks
+dist/
+build_webpack/
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Environment variables
+.env
+
+# Truffle cache and chain data
+.cache/
+.config/
+.truffle-solidity-loader/
+
+# Coverage directory used by tools like istanbul
+coverage/
+coverage.json
+
+# Local blockchain data
+.ganache
+.chaindata/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.swp
+*.swo
+*~
+
+# Compiled contract JSON files (if you want to ignore them)
+# Uncomment the line below if you want to ignore all contracts
+# build/contracts/*.json
+
+# System Files
+.DS_Store
+Thumbs.db

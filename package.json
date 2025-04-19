@@ -1,0 +1,21 @@
+{
+  "name": "assignment_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.3",
+    "@tw3/solidity": "^0.0.5",
+    "truffle": "^5.8.1"
+  }
+}
